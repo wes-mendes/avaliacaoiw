@@ -1,2 +1,2 @@
 # avaliacaoiw
-https://wes-mendes.github.io
+https://wes-mendes.github.io/avaliacaoiw
