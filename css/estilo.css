@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+
+header{
+    background-color: red;
+    text-align: center;
+}
+
+.banner{
+    width: 100%;
+}
+
+.container{
+    background-color: red;
+    width: 80%;
+    margin: auto;
+}
+
+footer{
+    background-color: red;
+}
